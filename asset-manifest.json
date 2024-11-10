@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/CraftedWebs/static/css/main.3defe1ca.css",
+    "main.js": "/CraftedWebs/static/js/main.f6c38472.js",
+    "static/js/453.4c9a7111.chunk.js": "/CraftedWebs/static/js/453.4c9a7111.chunk.js",
+    "static/media/home-bg.mp4": "/CraftedWebs/static/media/home-bg.9d01c8b0d91cec00a23e.mp4",
+    "static/media/icons5.png": "/CraftedWebs/static/media/icons5.4dfab7a24872f76d3179.png",
+    "static/media/icons2.png": "/CraftedWebs/static/media/icons2.6033ee987f35690b1400.png",
+    "static/media/targeting.png": "/CraftedWebs/static/media/targeting.3e6753de2751393b0a2a.png",
+    "static/media/promotion.png": "/CraftedWebs/static/media/promotion.3af7fc3f5261d9ad2924.png",
+    "static/media/icons3.png": "/CraftedWebs/static/media/icons3.aa8344dbaaa99b38e445.png",
+    "static/media/icons6.png": "/CraftedWebs/static/media/icons6.aaf481eef3271343b8b1.png",
+    "static/media/aesthetics.png": "/CraftedWebs/static/media/aesthetics.d3c4116838e6792ddf98.png",
+    "static/media/customization.png": "/CraftedWebs/static/media/customization.db58b0aca016f08fbc57.png",
+    "static/media/responsive.png": "/CraftedWebs/static/media/responsive.187eab262bf0152599e6.png",
+    "static/media/reviews.png": "/CraftedWebs/static/media/reviews.269352cc8319598e31f7.png",
+    "static/media/icons1.png": "/CraftedWebs/static/media/icons1.5cc9fe0789d39719b673.png",
+    "static/media/web-browser.png": "/CraftedWebs/static/media/web-browser.9f6dd33beadc8939b3ef.png",
+    "static/media/performance.png": "/CraftedWebs/static/media/performance.c8141008bad6dc676de0.png",
+    "static/media/fast-results.png": "/CraftedWebs/static/media/fast-results.88d1800b3e42aea68450.png",
+    "static/media/seo.png": "/CraftedWebs/static/media/seo.ea56614bc9ea7175c4c5.png",
+    "static/media/analysis.png": "/CraftedWebs/static/media/analysis.9b7665d64d58e858e223.png",
+    "index.html": "/CraftedWebs/index.html",
+    "static/media/slick.svg": "/CraftedWebs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/CraftedWebs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/CraftedWebs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/CraftedWebs/static/media/slick.295183786cd8a1389865.woff",
+    "main.3defe1ca.css.map": "/CraftedWebs/static/css/main.3defe1ca.css.map",
+    "main.f6c38472.js.map": "/CraftedWebs/static/js/main.f6c38472.js.map",
+    "453.4c9a7111.chunk.js.map": "/CraftedWebs/static/js/453.4c9a7111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3defe1ca.css",
+    "static/js/main.f6c38472.js"
+  ]
+}
