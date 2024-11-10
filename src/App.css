@@ -1,10 +1,51 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Ulepszenie paska przewijania */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4caf50;
+  border-radius: 10px;
+  border: 3px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #45a049;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #388e3c;
+}
+
+
+::selection {
+  background-color: #4caf50; /* Zielony kolor tła */
+  color: white; /* Biały kolor tekstu */
+}
+
+/* Opcjonalnie: animacja podświetlania */
+.selected-text {
+  animation: flash 0.5s ease-out;
+}
+
+@keyframes flash {
+  from {
+    background-color: #4caf50;
+  }
+  to {
+    background-color: transparent;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,3 +77,5 @@
     transform: rotate(360deg);
   }
 }
+
+
