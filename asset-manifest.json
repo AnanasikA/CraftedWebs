@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dff180d.css",
-    "main.js": "/static/js/main.73c5af22.js",
+    "main.js": "/static/js/main.403ca568.js",
     "static/js/453.4c9a7111.chunk.js": "/static/js/453.4c9a7111.chunk.js",
     "static/media/web-design-example.jpg": "/static/media/web-design-example.72b3e77a3e48245b4725.jpg",
     "static/media/benefits.jpg": "/static/media/benefits.d5576c2794153dec0598.jpg",
@@ -13,11 +13,11 @@
     "static/media/facebook.png": "/static/media/facebook.bfd1cfff9f9521198b26.png",
     "index.html": "/index.html",
     "main.6dff180d.css.map": "/static/css/main.6dff180d.css.map",
-    "main.73c5af22.js.map": "/static/js/main.73c5af22.js.map",
+    "main.403ca568.js.map": "/static/js/main.403ca568.js.map",
     "453.4c9a7111.chunk.js.map": "/static/js/453.4c9a7111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dff180d.css",
-    "static/js/main.73c5af22.js"
+    "static/js/main.403ca568.js"
   ]
 }
